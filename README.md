@@ -23,8 +23,8 @@ Este projeto tem como objetivo reforçar meu aprendizado em QA, estas são algum
 
 1. Abra `README.md` para visão geral do projeto  
 2. Navegue pelos arquivos na pasta `docs` para conferir a documentação:  
-   - [Análise de Requisitos](analise_de_requisitos.md) → requisitos e critérios de aceite   
-   - [Plano de Testes](plano_de_testes.md) → plano de testes detalhado e estratégia adotada  
-   - [Casos de Teste](casos_de_teste.md) → casos de teste e resultados com evidências em GIF  
+   - [Análise de Requisitos](docs/analise_de_requisitos.md) → requisitos e critérios de aceite   
+   - [Plano de Testes](docs/plano_de_testes.md) → plano de testes detalhado e estratégia adotada  
+   - [Casos de Teste](docs/casos_de_teste.md) → casos de teste e resultados com evidências em GIF  
 3. Confira a pasta `evidencias` para visualizar todas as capturas dos testes executados  
 4. Explore a pasta `cypress` para visualizar os scripts de automação implementados
